@@ -1,0 +1,1 @@
+{"version":3,"sources":["grid/RowContext.jsx"],"names":["createContext","RowContext"],"mappings":"AAAA,SAASA,aAAT,QAA8B,OAA9B;AACA,IAAMC,UAAU,GAAGD,aAAa,CAAC,EAAD,CAAhC;AACA,eAAeC,UAAf","sourcesContent":["import { createContext } from 'react';\nconst RowContext = createContext({});\nexport default RowContext;\n"],"file":"RowContext.js"}

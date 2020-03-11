@@ -1,0 +1,81 @@
+.App {
+  text-align: left;
+}
+
+body {
+  background-color:#0c0536ef;
+}
+
+header{
+  position:absolute;
+  top:0;
+  left:0;  
+  height:5rem;
+  border-bottom:.3rem solid rgb(255, 255, 255);
+  background:rgb(46, 28, 44);
+}
+
+.logo {
+  height:4rem;
+  width:8rem;
+  padding-top:.5rem;
+  padding-left:13rem;
+}
+
+.site-title {
+  font-size:2rem;
+  color:rgb(255, 255, 255);
+  text-align:right;
+  position:absolute;
+  left: 22rem;
+  top:1.5rem;
+  font-family:courier;
+}
+
+.image-text-wrap {
+  padding-top:2rem;
+  padding-left: 38rem;
+  padding-right:3rem;
+  text-align:justify;
+  color:rgb(201, 152, 152);
+  font-family:courier;
+}
+
+.nasaphoto-title {
+  font-size:1.5rem;
+  text-align:center;
+  color:white;
+}
+
+.nasaphoto-descript {
+  margin-top:1rem;
+  font-size:.85rem;
+  line-height:1.5rem;
+}
+
+.nasaphoto img {
+  border-radius:1rem;
+  position:absolute;
+  margin-top:1.5rem;
+  margin-left:2rem;
+  width:33rem;
+  box-shadow: 0 0.5rem 1rem 0;
+}
+
+.date {
+  margin-top:1rem;
+  font-style:italic;
+  font-size:1rem;
+  color:white;
+  text-align:left;
+  margin-left:13rem;
+}
+
+.ant-btn, .ant-btn-primary{
+  position:absolute;
+  text-align:center;
+  margin-top:1rem;
+  color:rgb(255, 255, 255);
+  margin-left:52rem;
+}
+

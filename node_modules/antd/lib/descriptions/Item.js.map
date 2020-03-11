@@ -1,0 +1,1 @@
+{"version":3,"sources":["descriptions/Item.jsx"],"names":["DescriptionsItem","children"],"mappings":";;;;;;;AAAA,IAAMA,gBAAgB,GAAG,SAAnBA,gBAAmB;AAAA,MAAGC,QAAH,QAAGA,QAAH;AAAA,SAAkBA,QAAlB;AAAA,CAAzB;;eACeD,gB","sourcesContent":["const DescriptionsItem = ({ children }) => children;\nexport default DescriptionsItem;\n"],"file":"Item.js"}
